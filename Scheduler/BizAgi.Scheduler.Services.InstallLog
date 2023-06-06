@@ -1,0 +1,15 @@
+﻿Instalando ensamblado 'C:\Bizagi\Projects\ProyectoFinal\Scheduler\BizAgi.Scheduler.Services.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   name = BizAgiProyectoFinalSchedulerService
+   assemblypath = C:\Bizagi\Projects\ProyectoFinal\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\ProyectoFinal\Scheduler\BizAgi.Scheduler.Services.InstallLog
+Instalando el servicio BizAgiProyectoFinalSchedulerService...
+El servicio BizAgiProyectoFinalSchedulerService se ha instalado correctamente.
+Creando el origen de EventLog BizAgiProyectoFinalSchedulerService en el registro Application...
+Confirmando ensamblado 'C:\Bizagi\Projects\ProyectoFinal\Scheduler\BizAgi.Scheduler.Services.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   name = BizAgiProyectoFinalSchedulerService
+   assemblypath = C:\Bizagi\Projects\ProyectoFinal\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\ProyectoFinal\Scheduler\BizAgi.Scheduler.Services.InstallLog
